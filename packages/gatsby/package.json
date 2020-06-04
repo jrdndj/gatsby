@@ -74,6 +74,7 @@
     "gatsby-core-utils": "^1.3.8",
     "gatsby-graphiql-explorer": "^0.4.7",
     "gatsby-link": "^2.4.8",
+    "gatsby-legacy-polyfills": "^0.0.1",
     "gatsby-plugin-page-creator": "^2.3.12",
     "gatsby-plugin-typescript": "^2.4.8",
     "gatsby-react-router-scroll": "^3.0.7",
